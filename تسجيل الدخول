@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+<litle>تسجيل الدخول</litle>
+      <link rel="icon"href="Home - Free web icons‏"
+        <link rel="stylesheet"type="text/css" href="css.css"
+  
+</head>
+  
+
+
+<body dir="rtl">
+  <hr>
+  <canter>
+    <fieldset>
+      <legend> 
+        
+        <img  src="admin.png"width="125px">
+         
+      </legend>
+      <form>
+        <center>
+        
+            <h1>تسجيل الدخول <br> </h1>
+          
+          </center>
+          <input type="email"placeholder="ادخل الايميل"><br>
+          <br>   <input type="password"placeholder="ادخل كلمة السر"><br>
+          <br>   <input type="checkbox">تذكرني
+           <br>   <a href="http://wwwنسيت كلمة السر.com">نسيت كلمة السر</a></br>
+        <a href="http://wwwانشاء حساب جديد .com">انشاء حساب جديد</a></br>
+          <br>    <input type="submit"value="تسجيل الدخول">
+          <hr>
+          <ruby>
+                  <br>  <rb> 
+                      INFO_2024 
+                
+            </rb>
+          </ruby>
+        </font>
+      </form>
+    </fieldset>
+  </canter>
+</body>
+</html>
